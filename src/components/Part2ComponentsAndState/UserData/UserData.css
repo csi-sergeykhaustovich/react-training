@@ -1,0 +1,19 @@
+.user-data-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: lightsteelblue;
+}
+
+.user-data-item button {
+    font: inherit;
+    cursor: pointer;
+    padding: 0.5rem 2rem;
+    border: 1px solid grey;
+    background-color: silver;
+    color: black;
+    border-radius: 10px;
+    margin-right: 1rem;
+}
